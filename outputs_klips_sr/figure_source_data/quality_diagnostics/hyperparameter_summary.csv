@@ -1,0 +1,7 @@
+﻿stage,model,hyperparameters,tuning_note
+stage2,logistic,"{""solver"": ""lbfgs"", ""max_iter"": 500, ""class_weight"": ""balanced""}",Fixed configuration; no grid/random/Bayesian search implemented.
+stage2,random_forest,"{""n_estimators"": 300, ""max_depth"": null, ""min_samples_leaf"": 5, ""class_weight"": ""balanced_subsample"", ""random_state"": 42}",Fixed configuration from uploaded code.
+stage2,xgboost,"{""n_estimators"": 400, ""max_depth"": 6, ""learning_rate"": 0.05, ""subsample"": 0.8, ""colsample_bytree"": 0.8, ""objective"": ""binary:logistic"", ""eval_metric"": ""auc"", ""random_state"": 42}",Fixed configuration from uploaded code.
+stage2,catboost,"{""iterations"": 300, ""depth"": 6, ""learning_rate"": 0.05, ""loss_function"": ""Logloss"", ""eval_metric"": ""AUC"", ""random_seed"": 42}",Fixed configuration from uploaded code.
+stage3,hybrid_meta_logistic,"{""solver"": ""lbfgs"", ""max_iter"": 500, ""class_weight"": ""balanced"", ""cv"": ""StratifiedKFold(n_splits=5, shuffle=True, random_state=42)""}",OOF stacking configuration used in stage 3.
+stage4,catboost_retrain_for_shap,"{""iterations"": 400, ""depth"": 6, ""learning_rate"": 0.05, ""loss_function"": ""Logloss"", ""eval_metric"": ""AUC"", ""random_seed"": 42, ""shap_sample_n"": 5000}",Retrained explainability model for SHAP and robustness analysis.

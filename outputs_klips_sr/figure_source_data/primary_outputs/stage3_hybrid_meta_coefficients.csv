@@ -1,0 +1,5 @@
+﻿meta_feature,coefficient
+meta_logistic,0.9140773040709916
+meta_random_forest,0.78207285110679
+meta_xgboost,0.8534034923307134
+meta_catboost,6.1081881645788165

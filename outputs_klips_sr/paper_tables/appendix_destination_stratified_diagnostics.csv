@@ -1,0 +1,3 @@
+﻿destination_t1,positive_n,test_n,base_rate,roc_auc,pr_auc,note,overall_exit_prevalence,positive_share
+missing worker-status detail,2006,27063,0.0741233418320215,0.7513652123407883,0.182250793659519,One-vs-rest diagnostic using the primary CatBoost wage-exit score; not a separately trained destination classifier.,0.0884972102132062,0.8375782881002087
+non-wage employment,389,27063,0.0143738683811846,0.6125616869242707,0.0208768481632145,One-vs-rest diagnostic using the primary CatBoost wage-exit score; not a separately trained destination classifier.,0.0884972102132062,0.1624217118997912

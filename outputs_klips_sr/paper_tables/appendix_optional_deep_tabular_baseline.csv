@@ -1,0 +1,2 @@
+﻿model,roc_auc,pr_auc,brier,recall_at_20,lift_at_20,f1_at_valid_threshold,valid_selected_threshold,train_seconds,test_inference_seconds,note
+TabNet_optional,0.6849,0.1691,0.0798,0.3829,1.9143,0.2439,0.1601,99.4892,0.5628,Optional TabNet baseline trained under the same chronological split.

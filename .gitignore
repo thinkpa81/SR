@@ -1,0 +1,17 @@
+raw/*
+!raw/README.md
+!raw/.gitkeep
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+catboost_info/
+outputs_klips_sr/processed/
+outputs_klips_sr/interim/
+outputs_klips_sr/models/
+outputs_klips_sr/logs/
+outputs_klips_sr/temp/
+outputs_klips_sr/render_tmp/
+*.doc
+*.docx
+*.pdf

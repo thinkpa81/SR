@@ -1,0 +1,7 @@
+﻿Feature block,Count,Note
+Candidate feature definitions,140,"Raw questionnaire, harmonised, nonlinear, and panel-history features defined in code"
+Final model features,138,Features used by the modelling scripts after the low-observation screen
+baseline_harmonised,17,Candidate definitions in this feature-engineering block
+expanded_raw_questionnaire,77,Candidate definitions in this feature-engineering block
+nonlinear_interactions,12,Candidate definitions in this feature-engineering block
+time_aware_panel_features,34,Candidate definitions in this feature-engineering block

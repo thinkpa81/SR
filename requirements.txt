@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+python-dateutil==2.8.2
+numpy==1.26.4
+pandas==3.0.1
+scikit-learn==1.6.1
+scipy==1.10.1
+matplotlib==3.7.1
+openpyxl==3.1.5
+python-calamine==0.6.2
+catboost==1.2.10
+xgboost==3.0.3
+torch==2.2.2+cu121
+pytorch-tabnet==4.1.0
+shap==0.48.0
+lifelines==0.30.0
+imbalanced-learn==0.13.0
+xlsxwriter==3.2.9

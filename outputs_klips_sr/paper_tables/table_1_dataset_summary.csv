@@ -1,0 +1,10 @@
+﻿Item,Value,Note
+Initial panel master,417823.0,Before risk-set restrictions
+Outside wage-employment risk set,257770.0,Excluded at baseline t
+No valid t+1 follow-up,20532.0,Excluded from wage-worker risk set
+Analytical sample,139521.0,Wage-employment observations with exit_label_t1
+Training partition,86497.0,Waves 1-20 (1998-2017)
+Validation partition,25961.0,Waves 21-23 (2018-2020)
+Held-out test partition,27063.0,Waves 24-26 (2021-2023)
+Overall exit rate,0.1087,Proportion exiting wage employment at t+1
+Final model features,138.0,After excluding features with fewer than 20 observed values

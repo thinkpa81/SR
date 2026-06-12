@@ -1,0 +1,2 @@
+﻿Model,N,ROC-AUC,PR-AUC,F1,Brier score,Recall@10,Lift@10,Recall@20,Lift@20
+catboost_2plus_firm_test,26633,0.7321,0.1973,0.0199,0.0764,0.2624,2.623,0.4445,2.2225

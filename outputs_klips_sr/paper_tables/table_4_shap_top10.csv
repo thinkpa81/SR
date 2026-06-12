@@ -1,0 +1,11 @@
+﻿Rank,Feature,Mean |SHAP|
+1,age_squared,0.080756
+2,industry_major,0.080438
+3,age_final,0.079124
+4,workplace_type,0.072854
+5,survey_year_centered,0.072475
+6,occupation_major,0.071833
+7,gender,0.060694
+8,region,0.050087
+9,job_sat_stability,0.047249
+10,union_exists,0.047195

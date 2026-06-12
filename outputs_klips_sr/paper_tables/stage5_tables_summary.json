@@ -1,0 +1,23 @@
+{
+  "tables_created": [
+    "table_1_dataset_summary",
+    "table_1b_feature_space_summary",
+    "table_2_main_model_performance",
+    "table_3_bootstrap_ci",
+    "table_4_shap_top10",
+    "table_4b_occupation_shap_details",
+    "table_4c_industry_shap_details",
+    "table_5_segment_performance",
+    "table_6_robustness_2plus_firm",
+    "table_7_hybrid_meta_coefficients",
+    "appendix_wide_model_performance",
+    "appendix_person_overlap_audit",
+    "appendix_person_disjoint_test_metrics",
+    "appendix_cluster_bootstrap_ci",
+    "appendix_threshold_diagnostics",
+    "appendix_optional_deep_tabular_baseline",
+    "appendix_feature_block_incremental_ablation",
+    "appendix_hours_block_removal_sensitivity",
+    "appendix_destination_stratified_diagnostics"
+  ]
+}

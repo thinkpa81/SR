@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "scope": "regenerated_analysis_artifacts_only",
+  "audit_csv_written": false,
+  "calibration_source_file": "outputs_klips_sr/tables/TableS29_calibration_error_metrics.csv",
+  "reconstruction_manifest": {
+    "analytical_rows": 139521,
+    "overall_exits": 15167,
+    "feature_count": 138,
+    "feature_list_sha256": "914b69f90253d09f17ca44f5b8236e8e6f4ea3ab14738b8cdcf3d4fe4292387b",
+    "schema_sha256": "7a8c16b0f4a2561a9669c4a15352d5082c30ba9137d98d70496015719b9e649a"
+  },
+  "outputs": [
+    "outputs_klips_sr/validation/submission_validation_summary.json"
+  ]
+}
